@@ -1,4 +1,5 @@
-baseURL = "https://no-signal.me/"
+# baseURL = "https://no-signal.me/"
+baseURL = "https://chrismade.github.io/"
 languageCode = "en-us"
 title = "Cogito ergo sum"
 theme = "bleak"
