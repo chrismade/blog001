@@ -2,8 +2,8 @@ publish_mode: editorial_workflow
 backend:
   name: github
   repo: chrismade/blog001
-  base_url: https://rqawxtha1j.execute-api.eu-west-1.amazonaws.com/prod
-  auth_endpoint: /auth
+  base_url: https://rqawxtha1j.execute-api.eu-west-1.amazonaws.com
+  auth_endpoint: /prod/auth
 site_id: chrismade.github.io
 media_folder: "static/images" 
 public_folder: "/images" 
