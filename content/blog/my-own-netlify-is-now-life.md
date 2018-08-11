@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: my own netlify is now life
+title: my serverless blog is now life
 date: '2018-08-11T08:51:31+02:00'
 thumbnail: /images/cfv4b.jpg
 categories:
@@ -31,6 +31,8 @@ As persistence layer github is used as repository - which makes it pretty easy t
 In order to see the site live and still follow the paradigm of a serverless architecture github pages is used - so the source files are read from the github repository and the outcome of the build process is - again - stored in github in another place. Github pages takes care of a valid SSL certificate and that the site appear as a regular website which you can see in your browser -  
 
 If you don't like the given URL (precisely FQDN) from github pages then you can [follow these instructions](https://help.github.com/articles/using-a-custom-domain-with-github-pages/) to make it appear in your own custom domain - of course in this case you need to take care of the SSL certificate yourself and you may want to consider using [letsencrypt](https://letsencrypt.org/) if you don't have a better option available.
+
+You may think a static website is a concept of the past - and you are right - but like in fashion some trends return - and especially if most aspects on the downside of a concept as vanished - a static website in 2018 - unlike to the ones in 1998 - may appear pretty dynamic and interactive thanks to frameworks like react, angular, vueJS or [EmberJS](https://www.emberjs.com/) - while the upsite is still true e.g. fast in delivery and almost invulnerable to most kinds of attacs. Read [this article](https://medium.com/netlify/webserverless-32f117e35996) for a detailed discussion.
 
 ## The authentication
 
