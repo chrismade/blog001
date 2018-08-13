@@ -6,7 +6,7 @@ thumbnail: /images/cfv4b.jpg
 categories:
   - news
 ---
-agile projects are trendy - however, there was a missing piece - at least for me. When I learnt about "agile" and why this is better in some cases compared to traditional project management I heart the phrase "autonomy, mastery and purpose" a lot but I could see any context. If you felt the same - here comes the solution.
+agile projects are trendy - however, there was a missing piece - at least for me. When I learnt about "agile" and why this is better in some cases compared to traditional project management I heart the phrase "autonomy, mastery and purpose" a lot but I could not see any context. If you felt the same - here comes the solution.
 
 ## A word of warning - this page may violate my data privacy policy
 
@@ -25,3 +25,11 @@ If you research hard enough we will come across author [Daniel H Pink](https://e
 {{< youtube u6XAPnuFjJc >}}
 
 A recording - and has been animated later on - it is definitely worth spending 10mins 47sec to understand what has been tested - and how - and why this is also the foundation of agile working as we know it today. Enjoy
+
+## conclusion - the YouTube video widget
+
+Unfortunately the Widget violates the data privacy because it includes the youtube javascript into this case - like it or not - your visit is shared with google/youtube and even worse, if you are logged in or have a valid cookie for youtube then it will make a connection - and you will see soon more recommendations of similar videos when you visit youtube next time.
+
+Also the widget itself need rework - as it shows only a part of the video - at least in my screen resolution - and the player controls are hidden - 
+
+The of the widget - basically working - but with flaws
